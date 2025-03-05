@@ -1,4 +1,3 @@
-# Task-1 Calculator App
 import 'package:flutter/material.dart';
 
 void main() {
